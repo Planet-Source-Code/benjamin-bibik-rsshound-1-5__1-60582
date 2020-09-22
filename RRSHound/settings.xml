@@ -1,0 +1,7 @@
+<rsshound>
+	<options>
+		<openinbrowser>0</openinbrowser>
+		<keephistory>1</keephistory>
+		<daysinhistory>15</daysinhistory>
+	</options>
+</rsshound>

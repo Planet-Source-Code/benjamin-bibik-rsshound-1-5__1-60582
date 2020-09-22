@@ -1,0 +1,16 @@
+[History]
+B0=RSSHound/frmSplash/Form_Load
+B1=RSSHound/frmMain/tvFeeds_NodeClick
+B2=RSSHound/frmMain/tvFeeds_DragDrop
+B3=RSSHound/frmMain/lvFeeds_Resize
+B4=RSSHound/frmMain/picFeeds_Resize
+B5=RSSHound/modMain/LoadFeed
+B6=RSSHound/frmMain/Image2_Click
+B7=RSSHound/frmMain/wb_StatusTextChange
+B8=RSSHound/frmMain/Feed_ItemClick
+B9=RSSHound/frmMain/SizeSubControls
+B10=RSSHound/frmMain/picBrowser_Resize
+B11=RSSHound/frmMain/lvFeeds_DblClick
+B12=RSSHound/frmMain/LoadSources
+B13=RSSHound/frmMain/mnuHistoryDelete_Click
+B14=RSSHound/frmMain/tvFeeds_MouseDown
